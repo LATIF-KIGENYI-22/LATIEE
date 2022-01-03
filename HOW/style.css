@@ -1,0 +1,31 @@
+*
+{
+margin: 1px;
+box-sizing: border-box;
+padding: 1px;
+font-family: Century Arial, Helvetica, sans-serif;
+}
+header{
+    text-align: center;
+    background-color:maroon;
+    text-emphasis-color: white;
+}
+
+
+div{
+ color:black;  
+background-color: darkgrey;
+}
+body{
+    background-color: beige;
+    backface-visibility: visible;
+    text-align: left;
+    font-size: larger;
+    word-wrap: normal;
+}
+ul{
+text-align: right;
+background-color: blue;
+}
+
+
